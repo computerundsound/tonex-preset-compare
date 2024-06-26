@@ -28,7 +28,7 @@ class TonexDb
 
         $result = $dbh->query(
             "SELECT `Tag_PresetName` 
-                    FROM `Presets` WHERE Presets.Tag_UserName IS NOT 'IK Multimedia' ORDER BY Tag_PresetName ASC"
+                    FROM `Presets` WHERE Presets.Tag_UserName != 'IK Multimedia' ORDER BY Tag_PresetName ASC"
         );
 
 
