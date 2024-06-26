@@ -1,0 +1,7 @@
+# Rename this file to config.yaml
+# insert the right Paths
+tonex_db_path: c:\Users\ ..... \IK Multimedia\TONEX\Library.db # This must be the full path to your tonex Library.db File
+
+# I have one directory in wich ALL my Tonexpresets files are.
+# This must be the Path to that directory
+tonex_presets_install_dir_path: f:\GoogleDrive\ ----  \Tonex\Sounds\__ALL\Tonex Presets

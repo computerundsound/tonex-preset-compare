@@ -1,0 +1,22 @@
+{
+  "name": "cu/amplitube-tonex-presetcompare",
+  "minimum-stability": "alpha",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jörg Wrase"
+    }
+  ],
+  "config": {
+    "vendor-dir": "inc/vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "inc/app/"
+    }
+  },
+  "require": {
+    "symfony/yaml": "v7.1.1",
+    "ext-pdo": "*"
+  }
+}
