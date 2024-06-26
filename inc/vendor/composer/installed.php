@@ -3,7 +3,7 @@
         'name' => 'cu/amplitube-tonex-presetcompare',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '58e821a628a1845c120b00027c1a810655799efc',
+        'reference' => 'adbcc2a1fef00ffa46c48f61d11bfc135304d288',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'cu/amplitube-tonex-presetcompare' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '58e821a628a1845c120b00027c1a810655799efc',
+            'reference' => 'adbcc2a1fef00ffa46c48f61d11bfc135304d288',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../../',
             'aliases' => array(),
